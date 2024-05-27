@@ -1,1 +1,1 @@
-VsCode PicGo插件上传文件仓库
+PicGo上传文件仓库
